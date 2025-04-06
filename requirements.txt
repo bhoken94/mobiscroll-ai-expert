@@ -1,0 +1,8 @@
+openai
+python-dotenv
+requests
+dotenv
+Crawl4AI
+supabase
+logfire
+streamlit
